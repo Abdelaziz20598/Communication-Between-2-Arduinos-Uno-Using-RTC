@@ -1,1 +1,1 @@
-# Communication-Between-2-Arduinos-Uno-Using-RTC
+# Communication-Between-2-Arduinos-Uno-Using-SPI-communication-protocol-RTC-Module
